@@ -7,7 +7,7 @@
 #include <SPI.h>
 #endif
 
-#define FILTERS  // uncomment this for Filters that do averaging of vbration for the level of background rainfall
+#define FILTERS  // uncomment this for Filters that do averaging of vibration for the level of background rainfall
 
 #ifdef FILTERS
 #include <Filters.h>
